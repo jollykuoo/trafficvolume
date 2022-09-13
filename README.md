@@ -23,7 +23,7 @@ a project about traffic volume data in Minnesota
 
 ## 有序序号、无序序号
 * 第一项无序  
-+ 第二项无序  
++ 第二项**无序**  
 - 第三项无序  
 
 1. 第一项有序
@@ -33,4 +33,4 @@ a project about traffic volume data in Minnesota
 
 
 ## 链接
-个人github主页**[EFF](https://eff.org)** **[传送门](https://github.com/jollykuoo)**
+个人github主页 **[传送门](https://github.com/jollykuoo)**
