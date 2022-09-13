@@ -37,9 +37,8 @@ a project about traffic volume data in Minnesota
 个人github主页 **[传送门](https://github.com/jollykuoo)**  
 
 ## 代码块
-代码块 [`code block`]()  
+代码块 ``code block``  
 
 ## 图片
-``使用这个来进行反义符转换``  
-``图片语法, ![图片alt](图片链接)``  
+``图片语法, ![图片alt](图片链接 "title")``  
 ![profile logo](https://avatars.githubusercontent.com/u/36659762?s=96&v=4)
