@@ -40,5 +40,6 @@ a project about traffic volume data in Minnesota
 代码块 [`code block`]()  
 
 ## 图片
-![图片alt](图片链接 "图片title")
+``使用这个来进行反义符转换``  
+``图片语法, ![图片alt](图片链接)``
 ![profile logo](https://avatars.githubusercontent.com/u/36659762?s=96&v=4)
