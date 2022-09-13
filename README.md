@@ -17,7 +17,8 @@ a project about traffic volume data in Minnesota
 ## 引用
 引用使用">"，嵌套块引用使用">>"
 > #### 引用
-> 
+> - 嵌套使用序号1
+> - 嵌套使用序号2
 >> 嵌套块引用  
 
 ## 有序序号、无序序号
@@ -30,4 +31,4 @@ a project about traffic volume data in Minnesota
 
 
 ## 链接
-个人github主页**[传送门]**:(https://github.com/jollykuoo)
+个人github主页**[传送门]:(https://github.com/jollykuoo)**
