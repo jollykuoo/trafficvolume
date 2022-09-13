@@ -41,4 +41,4 @@ a project about traffic volume data in Minnesota
 
 ## 图片
 ![图片alt](图片链接 "图片title")
-![baidu logo](www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%83%AD%E6%90%9C&sa=ire_dl_gh_logo_texing&rsv_dl=igh_logo_pc)
+![profile logo](https://avatars.githubusercontent.com/u/36659762?s=96&v=4)
