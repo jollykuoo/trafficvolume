@@ -37,6 +37,6 @@ a project about traffic volume data in Minnesota
 个人github主页 **[传送门](https://github.com/jollykuoo)**  
 
 ## 代码块
-代码块 [`code block`]().
-  def python():
+代码块 [`code block`]()  
+    def python():
     how to insert code block
