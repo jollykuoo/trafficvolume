@@ -38,5 +38,7 @@ a project about traffic volume data in Minnesota
 
 ## 代码块
 代码块 [`code block`]()  
-    def python():
-    how to insert code block
+
+## 图片
+![图片alt](图片链接 "图片title")
+![baidu logo](www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%83%AD%E6%90%9C&sa=ire_dl_gh_logo_texing&rsv_dl=igh_logo_pc)
